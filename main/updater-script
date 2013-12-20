@@ -1,0 +1,3 @@
+package_extract_file("EBR1", "/dev/ebr1");
+package_extract_file("EBR2", "/dev/ebr2");
+package_extract_file("logo.img", "/dev/logo");

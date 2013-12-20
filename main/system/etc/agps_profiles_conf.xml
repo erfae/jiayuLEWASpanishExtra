@@ -335,11 +335,11 @@
     ecid_enable="yes"
     gpevt="no"
     log_file_max_num="10"
-    ni_request="no"
+    ni_request="yes"
     notify_timeout="8"
     roaming="yes"
     si_mode="mb"
     supl_version="1"
-    verify_timeout="10"
+    verify_timeout="15"
   />
 </agps_profiles>
